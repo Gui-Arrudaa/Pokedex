@@ -1,34 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Pokédex
 
-## Getting Started
+A web page that list all the current pokemons using the PokeApi. <br>
+You can also view details from a specific pokemon when you click on it.
 
-First, run the development server:
+## Web Version
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<p width='100%' align='center'> 
+  <img src="./assets/web-version-dark.png" width='49%' alt="Web Version Dark"/>
+  <img src="./assets/web-version-light.png" width='49%' alt="Web Version Light"/>
+</p>
+<p width='100%' align='center'> 
+  <img src="./assets/web-version-details-page-dark.png" width='49%' alt="Web Version Details Page Dark"/>
+  <img src="./assets/web-version-details-page-light.png" width='49%' alt="Web Version Details Page Light"/>
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Mobile Version
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<p width='100%' align='center'> 
+  <img src="./assets/mobile-version-dark.png" width='250' alt="Mobile Version Dark"/>
+  <img src="./assets/mobile-version-details-page-dark.png" width='185' alt="Mobile Version Details Page Dark"/>
+  <img src="./assets/mobile-version-light.png" width='250' alt="Mobile Version Light"/>
+  <img src="./assets/mobile-version-details-page-light.png" width='185' alt="Mobile Version Details Page Light"/>
+</p>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Technologies
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+* Next.js
+* Styled Components
+* Context API
+* React Bootstrap
+* ESLint
+* Prettier
 
-## Learn More
+## 🤖 Demo
 
-To learn more about Next.js, take a look at the following resources:
+You can view the project demo at [https://pokedex-guilherme-arruda.vercel.app](https://pokedex-guilherme-arruda.vercel.app).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Getting Started
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Clone or download it as ZIP file. Open your terminal, go to the project folder and run `npm install` or `yarn` to install all dependencies. To run the project, run `npm dev` or `yarn dev` and it'll open on localhost.
 
-## Deploy on Vercel
+## 📄 License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is under MIT license - see the file [LICENSE.md](https://github.com/Guilherme-Arruda/pokedex/blob/master/LICENSE) for details.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+
+##### Coded with love by Guilherme Arruda ♥️
