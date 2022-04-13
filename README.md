@@ -17,10 +17,10 @@ You can also view details from a specific pokemon when you click on it.
 ## Mobile Version
 
 <p width='100%' align='center'> 
-  <img src="./assets/mobile-version-dark.png" width='240' alt="Mobile Version Dark"/>
-  <img src="./assets/mobile-version-details-page-dark.png" width='177' alt="Mobile Version Details Page Dark"/>
-  <img src="./assets/mobile-version-light.png" width='240' alt="Mobile Version Light"/>
-  <img src="./assets/mobile-version-details-page-light.png" width='177' alt="Mobile Version Details Page Light"/>
+  <img src="./assets/mobile-version-dark.png" width='235' alt="Mobile Version Dark"/>
+  <img src="./assets/mobile-version-details-page-dark.png" width='173' alt="Mobile Version Details Page Dark"/>
+  <img src="./assets/mobile-version-light.png" width='235' alt="Mobile Version Light"/>
+  <img src="./assets/mobile-version-details-page-light.png" width='173' alt="Mobile Version Details Page Light"/>
 </p>
 
 ## Technologies
